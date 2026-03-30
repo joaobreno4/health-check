@@ -1,0 +1,11 @@
+[Bb]in/
+[Oo]bj/
+[Tt]emp/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+.idea/
+*.db
+appsettings.Development.json
