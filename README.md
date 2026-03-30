@@ -23,4 +23,5 @@ Este projeto implementa um endpoint de diagnóstico técnico utilizando .NET 8. 
 
 ---
 Autor: João Breno
+
 Projeto desenvolvido como Prova de Conceito (PoC) para estratégias de Readiness e Liveness probes em arquiteturas de microsserviços.
